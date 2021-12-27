@@ -15,7 +15,7 @@ Recommended deviations/tolerance grades for a given fit type are available in ta
 
 How to Use:
 
-When the script is run it will ask for the parameters in the gear designation and the machining methods. Once those are inputted, four DXF files will be generated (One for the Shaft, one for the Hub, one for a single shaft tooth, and one for a single hub space width) and plots will be made representing the four files. The plots will contain important dimensions of the gears that can be used on a GD&T drawing of the gear. The root fillet radius will be printed, and the measurement over pins data (useful for manufacturing purposes) will be printed.
+When the script is run it will ask for the parameters in the gear designation and the machining methods. Once those are inputted, four DXF files will be generated (One for the Shaft, one for the Hub, one for a single shaft tooth, and one for a single hub space width) and plots will be made representing the four files. The plots will contain important dimensions of the gears that can be used on a GD&T drawing of the gear. The root fillet radius will be printed, and the measurement over pins data (useful for manufacturing purposes) will be printed. For help with choosing appropriate designation parameters, refer to Table 1 in the DIN 5480-1.
 
 The DXF files can be imported into other CAD softwares to make 3D models of the gears, and they can also be uploaded on to most EDMs (electric discharge machines) that can then cut the profile into a piece of stock (see the EDM cut jpg for an example). The usefulness with the EDM is that they can be operated with very little training. In other words, anyone with a proper DXF file can manufacture a gear with an EDM; a dedicated CNC programmer is not required.
 
